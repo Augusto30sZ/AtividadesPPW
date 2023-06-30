@@ -1,0 +1,11 @@
+body{
+    background-color: silver;
+}
+
+.lista {
+    list-style-type: square;
+    text-decoration: underline;
+}
+.lista1 {
+    list-style-image: url();
+}

@@ -1,0 +1,51 @@
+corpo {
+    cor de fundo :  rgb ( 255 ,  255 ,  255 );
+    margem :  0 ;
+    espaçamento entre letras : 0 ;
+    font-family : arial , sans-serif;
+    alinhamento de texto : centro;
+}
+pág . direita {
+    margem direita :  5 % ;
+    alinhamento de texto : direito;
+}
+pág . gugli {
+    font-family : 'Segoe UI' , Tahoma , sans-serif;
+    margem superior :  12 % ;    
+}
+
+. azul {
+    cor :  # 1b6ef3ff ;
+    tamanho da fonte :  90 px ;
+}
+
+. vermelho {
+    cor :  # ff0000ff ;
+    tamanho da fonte :  90 px
+}
+
+. amarelo {
+    cor :  rgb ( 250 ,  166 ,  20 );
+    tamanho da fonte :  90 px
+}
+
+. verde {
+    cor :  # 1ea446ff ;
+    tamanho da fonte :  90 px
+}
+
+entrada {
+    borda : 1 px sólido;
+    raio da borda :  20 px ;
+    altura :  30px ; _
+    largura :  30 % ;  
+}
+
+botão {
+    font-family : arial , sans-serif;
+    margem superior :  1 % ;
+    largura :  10 % ;
+    altura :  40px ; _
+    cor de fundo :  rgba ( 216 ,  213 ,  213 ,  0,2 );
+    borda :  0 ;
+}
